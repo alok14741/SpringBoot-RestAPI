@@ -3,7 +3,7 @@ An Example of SpringBoot RestAPI by taking example of bank details fetch by name
 
 This SpringBoot application uses CSV file to search for record. 
 
-Two ways to use this:
+Two ways to use this: <br><br>
 http://localhost:8080/bank/search/byIFSC/{IFSC CODE}
 http://localhost:8080/bank/search/byBankNameAndCity/{BankName}/{City}
 
